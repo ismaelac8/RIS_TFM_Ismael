@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+matplotlib
+xlsxwriter
+jupyter
+optuna
+scipy
+pycuda
