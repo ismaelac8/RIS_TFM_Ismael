@@ -7,3 +7,12 @@ jupyter
 optuna
 scipy
 pycuda
+Seaborn
+Scikit-learn
+mpl_toolkits.mplot3d
+scipy.io
+scipy.spatial.distance
+TensorFlow
+PyTorch
+Keras
+statsmodels
